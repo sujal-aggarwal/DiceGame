@@ -2,5 +2,5 @@
 <h4 align="center">🎲 Dice Game.</h4>
 
 
-<h2>📍 Access the Site <a href="https://online-dice.netlify.app/">here!</a></h2>
+<h2>📍 Access the Site <a href="https://dicegame-by-sujalaggarwal.netlify.app">here!</a></h2>
 
